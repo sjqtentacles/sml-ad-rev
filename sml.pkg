@@ -1,4 +1,5 @@
 package github.com/sjqtentacles/sml-ad-rev
 
 require {
+  github.com/sjqtentacles/sml-tensor
 }
